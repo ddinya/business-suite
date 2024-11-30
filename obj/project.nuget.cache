@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0j8ATq04RJTeDk6PvIgAb7aHJl7kQpB91cJsnzoiKrL7kNn537ZZxB3tLKn99sNUbzx/7ahxSOzo/7YckrrxPw==",
+  "dgSpecHash": "4YeQPmjWzV5SKKv6b16CDjZ5Mkbh1wQSVnrljfXqLsczmeDhwIWGSrYhMISS5SapzPge8pW1wwGTodl++AJNNQ==",
   "success": true,
   "projectFilePath": "/home/dsdy/code/business-suite/business-suite.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/dsdy/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512",
+    "/home/dsdy/.nuget/packages/spectre.console.cli/0.49.1/spectre.console.cli.0.49.1.nupkg.sha512"
+  ],
   "logs": []
 }

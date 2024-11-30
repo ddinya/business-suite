@@ -13,3 +13,10 @@
 /home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.pdb
 /home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.genruntimeconfig.cache
 /home/dsdy/code/business-suite/obj/Debug/net8.0/ref/business-suite.dll
+/home/dsdy/code/business-suite/bin/Debug/net8.0/Spectre.Console.dll
+/home/dsdy/code/business-suite/bin/Debug/net8.0/Spectre.Console.Cli.dll
+/home/dsdy/code/business-suite/bin/Debug/net8.0/de/Spectre.Console.Cli.resources.dll
+/home/dsdy/code/business-suite/bin/Debug/net8.0/fr/Spectre.Console.Cli.resources.dll
+/home/dsdy/code/business-suite/bin/Debug/net8.0/sv/Spectre.Console.Cli.resources.dll
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.csproj.AssemblyReference.cache
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.csproj.CopyComplete
