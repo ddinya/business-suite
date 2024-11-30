@@ -1,0 +1,15 @@
+/home/dsdy/code/business-suite/bin/Debug/net8.0/business-suite
+/home/dsdy/code/business-suite/bin/Debug/net8.0/business-suite.deps.json
+/home/dsdy/code/business-suite/bin/Debug/net8.0/business-suite.runtimeconfig.json
+/home/dsdy/code/business-suite/bin/Debug/net8.0/business-suite.dll
+/home/dsdy/code/business-suite/bin/Debug/net8.0/business-suite.pdb
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.GeneratedMSBuildEditorConfig.editorconfig
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.AssemblyInfoInputs.cache
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.AssemblyInfo.cs
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.csproj.CoreCompileInputs.cache
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.sourcelink.json
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.dll
+/home/dsdy/code/business-suite/obj/Debug/net8.0/refint/business-suite.dll
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.pdb
+/home/dsdy/code/business-suite/obj/Debug/net8.0/business-suite.genruntimeconfig.cache
+/home/dsdy/code/business-suite/obj/Debug/net8.0/ref/business-suite.dll
